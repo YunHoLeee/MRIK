@@ -5,4 +5,4 @@ Manhwa_Research_In_Korea
 이 연구는 KCI 데이터를 기반으로 했습니다.
 > 주제어를 기반으로 했습니다.
 - 주제어 : 웹툰, 디지털만화 등등  
-[네이버웹툰](https://comic.naver.com/index))
+[네이버웹툰](https://comic.naver.com/index)
